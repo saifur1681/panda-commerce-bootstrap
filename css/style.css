@@ -1,0 +1,26 @@
+/* carousel slider */
+.panda-bg-info{
+background-color: #fceae8;
+}
+/* catagories style */
+
+.catagories img{
+width:100px;
+}
+.bg-orange{
+    background-color: rgb(176, 99, 231);
+}
+.bg-orangered{
+    background-color:rgb(245, 99, 46);
+}
+.bg-yellow{
+    background-color:rgb(177, 243, 45);
+}
+/* button */
+.panda-btn-buy-now{
+    color:white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border:none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
